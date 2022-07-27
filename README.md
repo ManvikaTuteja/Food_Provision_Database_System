@@ -47,5 +47,5 @@ Sponsor(Sponsor_ID(N-NULL), Sponorname, Contactinfo)
 Coupon(Coupon_ID(N-NULL), ExpiryDate, Description, PointRequired, Sponsor_ID(N-NULL))
 Exchange(ExchangeDateTime, Coupon_ID(N-NULL), Provider_ID(N-NULL))
 
-# Project by - Manvika Tuteja and Fengbo Ma 
+Project by - Manvika Tuteja and Fengbo Ma 
 
