@@ -1,0 +1,54 @@
+OrderNum,Location,Category,Servicefee
+20220033,360 Saratoga Stree,No seafood,$5
+20220040,239 Sumner Street,Gluten free,$5
+20220002,1 Ashley Street,Vegan,$5
+20220029,200 Cambridge Street,No red meat,$5
+20220010,392 Hanover Street,No seafood,$5
+20220014,525 Main Street,Gluten free,$5
+20220018,34 Winthrop Street,Vegatarian,$5
+20220017,618 Harrison Ave,Vegatarian,$5
+20220052,200 Columbus Ave,Halal Meat,$5
+20220011,700 Tremont Street,Vegan,$5
+20220031,700 East Fourth Street,Vegan,$5
+20220024,125 Purchase Street,No seafood,$5
+20220050,20 Kearsage Avenue,Halal Meat,$5
+20220045,396 Northampton Street,Vegan,$5
+20220007,75 Malcolm X Blvd,No red meat,$5
+20220013,55 Malcolm X Blvd,Halal Meat,$5
+20220038,205 Roxbury Street,No red meat,$5
+20220026,51 Cedar Street,Halal Meat,$5
+20220020,131 Walnut Avenue,Gluten free,$5
+20220009,263 Blue Hill Ave,Vegan,$5
+20220046,135 Humboldt Avenue,Lactose Intolerant,$5
+20220047,205 Townsend Street,Lactose Intolerant,$5
+20220042,302 Walnut Avenue,Lactose Intolerant,$5
+20220004,35 Brookford Street,No red meat,$5
+20220049,77 Lawrence Avenue,Vegan,$5
+20220032,270 Columbia Road,No seafood,$5
+20220043,85 Olney Street,No red meat,$5
+20220030,1 Parish Street,No special requirement,$5
+20220034,35 Westville Street,Vegatarian,$5
+20220022,1669 Dorchester Avenue,No seafood,$5
+20220006,1 Worrell Street,Halal Meat,$5
+20220003,19 Oakton Avenue,Vegatarian,$5
+20220015,315 Mt. Vernon Street,No special requirement,$5
+20220021,200 D Street,Lactose Intolerant,$5
+20220048,525 Main Street,Halal Meat,$5
+20220037,34 Winthrop Street,No special requirement,$5
+20220001,618 Harrison Ave,Lactose Intolerant,$5
+20220016,200 Columbus Ave,No special requirement,$5
+20220023,700 Tremont Street,No seafood,$5
+20220053,700 East Fourth Street,Lactose Intolerant,$5
+20220027,125 Purchase Street,Vegatarian,$5
+20220036,20 Kearsage Avenue,No seafood,$5
+20220008,396 Northampton Street,Vegan,$5
+20220025,75 Malcolm X Blvd,No red meat,$5
+20220005,55 Malcolm X Blvd,Gluten free,$5
+20220019,205 Roxbury Street,No red meat,$5
+20220054,51 Cedar Street,Gluten free,$5
+20220041,131 Walnut Avenue,Gluten free,$5
+20220035,263 Blue Hill Ave,Halal Meat,$5
+20220012,135 Humboldt Avenue,Vegatarian,$5
+20220051,77 Lawrence Avenue,No special requirement,$5
+20220039,270 Columbia Road,Vegan,$5
+20220044,85 Olney Street,Lactose Intolerant,$5

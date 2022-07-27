@@ -1,0 +1,54 @@
+UserID,Category ,PaymentInfo
+1008,Gluten free,Cash
+1009,Vegan,Credit
+1041,No red meat,Cash
+1013,No special requirement,Cash
+1031,Vegatarian,Credit
+1043,Vegatarian,Cash
+1003,Gluten free,Cash
+1006,Vegan,Credit
+1023,Halal Meat,Cash
+1018,No red meat,Credit
+1016,No red meat,Cash
+1033,Vegan,Cash
+1042,No red meat,Credit
+1005,No red meat,Cash
+1038,No special requirement,Credit
+1039,No seafood,Credit
+1024,Lactose Intolerant,Credit
+1036,Halal Meat,Credit
+1012,Vegatarian,Cash
+1027,Lactose Intolerant,Cash
+1049,No seafood,Credit
+1044,Vegatarian,Cash
+1026,No seafood,Cash
+1021,No seafood,Credit
+1052,No special requirement,Cash
+1029,No red meat,Credit
+1015,Gluten free,Cash
+1007,No special requirement,Cash
+1001,Gluten free,Cash
+1022,Lactose Intolerant,Credit
+1004,No seafood,Cash
+1047,Vegan,Cash
+1035,Vegatarian,Cash
+1019,Lactose Intolerant,Credit
+1017,Lactose Intolerant,Cash
+1028,Halal Meat,Credit
+1051,Halal Meat,Credit
+1046,Gluten free,Credit
+1037,Vegatarian,Credit
+1011,No red meat,Cash
+1050,Gluten free,Cash
+1014,Halal Meat,Credit
+1040,Halal Meat,Cash
+1032,No special requirement,Cash
+1002,Vegan,Credit
+1045,No seafood,Cash
+1048,Lactose Intolerant,Credit
+1000,Vegan,Credit
+1025,No special requirement,Credit
+1034,No seafood,Credit
+1010,Halal Meat,Cash
+1020,Lactose Intolerant,Cash
+1030,Vegan,Credit
